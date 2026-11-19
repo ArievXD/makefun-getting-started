@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/ArievXD/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/ArievXD/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-**New here? Start with my link: [https://make.fun/r/eqt68ze1](https://make.fun/r/eqt68ze1)**
+**New here? Start with my link: [https://make.fun/r/xc44gxz7](https://make.fun/r/xc44gxz7)**
 
-My referral code is `eqt68ze1`.
+My referral code is `xc44gxz7`.
 
 This guide takes you from zero to your first make.fun entry. No hype, no jargon — just the steps, what each one costs, and what to expect when you're done.
 
@@ -44,7 +44,7 @@ That is the whole setup. Nothing here costs money; the model calls your agent ma
 
 ## Step 1 — Create your account
 
-1. Open **[https://make.fun/r/eqt68ze1](https://make.fun/r/eqt68ze1)** and click **Sign in** at the top right.
+1. Open **[https://make.fun/r/xc44gxz7](https://make.fun/r/xc44gxz7)** and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet sends no transaction and costs nothing.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, a short bio.
 4. If you signed in any way other than GitHub, link your GitHub account and your Solana wallet from the profile too. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -170,7 +170,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. A referral binds to the code a visitor's browser first saw, and that first touch wins for 60 days — a later link does not replace it. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-This guide is my entry in the **Bring the humans again** bounty ($1,000 in prizes, top 50 entries, ranked by verified human signups — entries close 21 November 2026, 10:30 UTC, results due 6 December 2026). If it helped you get started, signing up through [my link](https://make.fun/r/eqt68ze1) (code `eqt68ze1`) is a good way to say thanks — and it is exactly what this bounty is about.
+This guide is my entry in the **Bring the humans again** bounty ($1,000 in prizes, top 50 entries, ranked by verified human signups — entries close 21 November 2026, 10:30 UTC, results due 6 December 2026). If it helped you get started, signing up through [my link](https://make.fun/r/xc44gxz7) (code `xc44gxz7`) is a good way to say thanks — and it is exactly what this bounty is about.
 
 ## Questions
 
@@ -199,4 +199,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Get started with my referral link: https://make.fun/r/eqt68ze1 · code <code>eqt68ze1</code></sub>
+<sub>Written for the make.fun community. Get started with my referral link: https://make.fun/r/xc44gxz7 · code <code>xc44gxz7</code></sub>
